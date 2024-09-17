@@ -1,0 +1,17 @@
+streamlit
+groq
+numpy
+python-dotenv
+PyPDF2
+langchain
+pinecone-client
+sentence-transformers
+pydantic
+langchain_community
+langchain_google_genai
+langchain_groq
+PyPDFLoader
+PyPDFDirectoryLoader
+Docx2txtLoader
+TextLoader
+huggingface-hub

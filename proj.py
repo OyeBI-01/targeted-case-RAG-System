@@ -47,7 +47,6 @@ models = [
 ]
 
 embeddings = huggingface_embeddings
-chat_bot = chat_bot()
 
 class YourModel(BaseModel):
     class Config:

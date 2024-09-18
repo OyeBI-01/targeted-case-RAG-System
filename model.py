@@ -31,7 +31,7 @@ class chat_bot():
             encode_kwargs={'normalize_embeddings': True}
         )
         # Run generative search otherwise
-        client = groq.Groq(api_key=GROQ_API_KEY)
+
         query:str
         output:str = ""
         self.models = [

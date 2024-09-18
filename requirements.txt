@@ -56,9 +56,9 @@ langchain
 langchain-community
 langchain-core
 langchain-groq
-langchain-huggingface==0.0.3
-langchain-pinecone==0.1.3
-langchain-text-splitters==0.3.0
+langchain-huggingface
+langchain-pinecone
+langchain-text-splitters
 langsmith==0.1.120
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5

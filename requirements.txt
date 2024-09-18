@@ -84,6 +84,7 @@ pillow==10.4.0
 pinecone-client==5.0.1
 pinecone-plugin-inference==1.0.3
 pinecone-plugin-interface==0.0.7
+pip==24.2
 proto-plus==1.24.0
 protobuf==4.25.4
 protobuf-to-pydantic==0.1.7.4

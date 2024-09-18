@@ -24,7 +24,6 @@ from PyPDF2 import PdfReader
 from langchain.docstore.document import Document 
 from sentence_transformers import SentenceTransformer  
 from pydantic import BaseModel
-from langchain_google_genai import ChatGoogleGenerativeAI
 
 from evaluation import evaluate_retrieval, evaluate_model, time_execution
 from logging_utils import log_and_evaluate

@@ -22,3 +22,6 @@ Text Chunking: Splits the extracted text into manageable chunks.
 Vector Store: Uses Pinecone for efficient text retrieval.
 Conversational Retrieval: Allows users to ask questions about the content of the PDFs.
 Evaluation Logging: Records evaluation results for the retrieval and generation components.
+
+# Live Application
+The application is deployed and live at Streamlit Live URL. You can access it to interact with the application and see it in action To access the live application, click this: https://targeted-case-rag-system-q765qkqqlu3evgpfs4mxej.streamlit.app/ 
